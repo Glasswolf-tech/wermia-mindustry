@@ -1,1 +1,17 @@
 
+name: "wermia"
+description: 
+''' 
+HEAVILY WIP! ABSOLUTELY NOT PLAYABLE!
+
+A mod that adds a new planet, Wermia, along with it's campaign.
+Asthosus is a lushfull planet, full of vegetation. But do not be fooled by paradise appearence - under green canopies hides danger. 
+Mod aims to provide a vanila-like experience, being something in-between Serpulo and Erekir, yet with own unigue flavour.
+Enjoy!
+'''
+author: "Glasswolf-tech"
+minGameVersion: 146
+version: "0"
+displayName: "Wermia"
+subtitle: "WIP!"
+repo: "wermia"
