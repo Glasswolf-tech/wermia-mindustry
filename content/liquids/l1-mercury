@@ -1,0 +1,11 @@
+type: CellLiquid
+name: Mercury
+description: A luquid metal. Seems to be deeply corruptive to biological lifeforms.
+coolant: true
+color: 87ebac
+colorFrom: 87ebac
+colorTo: 65b07a
+explosiveness: 0
+flammability: 0
+viscosity: 0.4
+heatCapacity: 0.7
